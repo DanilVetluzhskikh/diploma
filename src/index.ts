@@ -1,3 +1,3 @@
 import {someFn} from "./test";
 
-someFn('some')
+someFn('yes')
