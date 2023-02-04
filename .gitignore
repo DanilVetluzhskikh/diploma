@@ -3,3 +3,4 @@ build
 package-lock.json
 !config/build
 !config
+.idea
