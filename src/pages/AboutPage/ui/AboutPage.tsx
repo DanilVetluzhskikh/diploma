@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next';
 interface AboutPageProps {}
 
 const AboutPage = (_: AboutPageProps) => {
-    const { t } = useTranslation('about');
+    const { t } = useTranslation();
 
     return (
         <div>
